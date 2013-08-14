@@ -1,0 +1,10 @@
+CPAN_AUTHOR=toddr
+inherit perl
+
+NAME="perl-IO-Tty"
+VERSION=1.10
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl pseudo-TTY class"
+DESCRIPTION="IO::Pty provides an interface to allow the creation of a pseudo
+tty in Perl."
